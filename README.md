@@ -2,6 +2,8 @@
 
 An advanced AI-powered football scouting assistant that leverages **Retrieval-Augmented Generation (RAG)** to provide intelligent player recommendations from a dataset of 15,000+ players.
 
+**Watch Live Demo Here** https://www.loom.com/share/5997fc1e321543018ed07db809a5db44
+
 ## 🚀 Key Features
 - **Semantic Scouting:** Uses vector embeddings to understand player "profiles" instead of just keyword matching.
 - **FC 26 Ready:** Integrated with the latest player stats, including synthetic "Potential" and "Wonderkid" metrics.
