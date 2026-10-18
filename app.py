@@ -85,7 +85,7 @@ def get_scouting_report(user_query):
             {"role": "system", "content": system_prompt},
             {"role": "user", "content": user_query}
         ],
-        model="llama-3.1-8b-instant",
+        model="openai/gpt-oss-20b",
         temperature=0.7
     )
     return response.choices[0].message.content
